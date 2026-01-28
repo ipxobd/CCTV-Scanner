@@ -68,7 +68,7 @@ def print_banner():
                             
 
 """
-    print(f"{Fore.RED}{banner}{Style.RESET_ALL}")
+    print(f"{Fore.WHITE}{banner}{Style.RESET_ALL}")
     print(f"{Fore.GREEN}[*] Developed by: {Fore.YELLOW}ipxo{Style.RESET_ALL}")
     print(f"{Fore.GREEN}[*] Telegram: {Fore.YELLOW}@ipxo_bd_back{Style.RESET_ALL}")
     print(f"{Fore.GREEN}[*] Termux Supported ✓{Style.RESET_ALL}\n")
