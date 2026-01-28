@@ -76,7 +76,7 @@ Automatically detects:
 #### Step 1: Clone the Repository
 ```bash
 https://github.com/ipxobd/CCTV-Scanner.git
-cd W8CameraScannerV1
+cd CCTV-Scanner
 ```
 
 #### Step 2: Install Dependencies
