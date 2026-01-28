@@ -75,7 +75,7 @@ Automatically detects:
 
 #### Step 1: Clone the Repository
 ```bash
-https://github.com/ipxobd/CCTV-Scanner.git
+git clone https://github.com/ipxobd/CCTV-Scanner.git
 cd CCTV-Scanner
 ```
 
@@ -116,7 +116,7 @@ pkg install traceroute -y
 #### Step 2: Clone and Install
 # Clone repository
 ```
-https://github.com/ipxobd/CCTV-Scanner.git
+git clone https://github.com/ipxobd/CCTV-Scanner.git
 ```
 
 ```
