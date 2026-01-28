@@ -131,7 +131,7 @@ pip install -r requirements.txt
 
 #### Step 3: Run
 ```bash
-python ipxoCameraScanner.py
+python CCTV-Scanner.py
 ```
 
 ---
